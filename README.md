@@ -1,6 +1,6 @@
 # Created by webdevserv GitHub user and AI
 
-<img src="MyResults/output.png" alt="Watermarked Output" width="512px">
+<img src="./output.png" alt="Watermarked Output" width="512px">
 
 # Image Watermark & Guilloché Pattern Generator
 
